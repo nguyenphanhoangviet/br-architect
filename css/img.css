@@ -1,0 +1,15 @@
+.container_img {
+    width: 100%;
+    margin: 16px 0;
+    display: flex;
+    justify-content: center;
+    height: auto;
+  }
+  .img_footer{
+    width: 95%;
+  }
+  .img_footer img {
+    width: 100%;
+    height: auto;
+  }
+  

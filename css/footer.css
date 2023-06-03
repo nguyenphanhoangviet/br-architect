@@ -1,0 +1,13 @@
+footer{
+    width: 100%;
+    background-color: black;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.footer_let{display: flex;justify-content: center;}
+.footer_let p{
+    
+color: white;
+}
